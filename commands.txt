@@ -1,0 +1,10 @@
+----- Dependeces
+npm install -g yarn
+yarn add express
+yarn add nodemon -D
+yarn add jest supertest -D
+
+----- Use
+yarn init -y
+yarn start
+yarn test
